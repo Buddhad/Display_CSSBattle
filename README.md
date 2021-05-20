@@ -3,9 +3,8 @@
 [CSSBattle](https://cssbattle.dev/) Golfing Game Codes are
 Partial non-optimal.
 
-# Battle #4 - Cursor List 
+# Battle #4 - Display CSSBattle
 + [Target #21 - SitePointLogo](./21.SitePointLogo.md)
-
 + [Target #22 - Cloud](./22.Cloud.md)
 + [Target #23 - Boxception](./23.Boxception.md)
 + [Target #24 - Switches](./24.Switches.md)
